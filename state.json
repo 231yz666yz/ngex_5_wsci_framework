@@ -1,0 +1,6 @@
+{
+  "device": "Windows laptop",
+  "cause": "Cached old credentials for eduroam",
+  "action": "Forget eduroam network in Wi-Fi settings, then reconnect with new password",
+  "wifi_status": "Disconnected"
+}
